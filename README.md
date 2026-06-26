@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./ChatGPT Image Jun 27, 2026, 01_39_08 AM.png)
+![Banner](./banner.png)
 
 </div>
 <div align="center">
