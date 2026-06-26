@@ -1,5 +1,10 @@
 <div align="center">
 
+![Banner](./ChatGPT Image Jun 27, 2026, 01_39_08 AM.png)
+
+</div>
+<div align="center">
+
 # 👋 Hi, I'm Ahmad
 
 ### 🛡️ SOC Analyst Trainee | Detection Engineering Enthusiast | Cybersecurity Student
