@@ -90,8 +90,6 @@ currently_learning:
 
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJahmadcyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AJahmadcyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AJahmadcyber&theme=tokyonight&hide_border=true)
 
 </div>
